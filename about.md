@@ -4,7 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, my name is Justin Ramjattan. I am a 3rd year BS.C Computer Science student at the University of the West Indies St.Augustine.
+My main fields of interest are development of Native Applications and Web Applications. I also have basic knowledge in Machine Learning.
+I am proficient in C, C++, Java, Python, SQL, Kotlin, Javascript and Swift. I also do designing of flyers.
+
+As a student I accomplished the following:
+- I am the on Board of Executives for The UWI Computing Society
+- I became a fellow at Hacker Hostel
+- Currently the Full-Stack Developer for a Gym Platform  
 
 You can find programs and projects I have worked on here:
 [github](https://github.com/aundrae)
