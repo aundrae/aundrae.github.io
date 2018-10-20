@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flyers
+title: Graphical Designs
 permalink: /flyers/
 ---
 <img src="/assets/LAN PARTY.jpg" width="300" height="400">
