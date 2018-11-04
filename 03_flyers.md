@@ -2,6 +2,7 @@
 layout: page
 title: Graphical Designs
 permalink: /flyers/
+order: 3
 ---
 <img src="/assets/LAN PARTY.jpg" width="300" height="400">
 

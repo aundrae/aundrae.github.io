@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 
 Hello, my name is Justin Ramjattan. I am a 3rd year BSc Computer Science student at the [University of the West Indies St.Augustine](https://sta.uwi.edu/).
