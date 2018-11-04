@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 order: 1
 ---
+<center><img src="/assets/selfimg.jpg" width="200" height="200"></center><br>
 
 Hello, my name is Justin Ramjattan. I am a 3rd year BSc Computer Science student at the [University of the West Indies St.Augustine](https://sta.uwi.edu/).
 My main fields of interest are, development of Native Applications and Web Applications. I also have basic knowledge in Machine Learning.
