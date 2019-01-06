@@ -10,7 +10,7 @@ Hello, my name is Justin Ramjattan. I am a 3rd year BSc Computer Science student
 My main fields of interest are, development of Native Applications and Web Applications. I also have basic knowledge in Machine Learning.
 I am proficient in C, C++, Java, Python, Scala, SQL, Kotlin, Javascript and Swift. I also do graphical designs.
 
-I have worked on projects and developed skill in using many technologies and frameworkes including:
+I have worked on projects and developed skills in using many technologies and frameworks including:
 - Django
 - Android Studio
 - Xcode
