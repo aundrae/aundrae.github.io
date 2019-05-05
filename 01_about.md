@@ -7,23 +7,28 @@ order: 1
 <center><img src="/assets/selfimg.jpg" width="200" height="200"></center><br>
 
 Hello, my name is Justin Ramjattan. I am a 3rd year BSc Computer Science student at the [University of the West Indies St.Augustine](https://sta.uwi.edu/).
-My main fields of interest are, development of Native Applications and Web Applications. I also have basic knowledge in Machine Learning.
-I am proficient in C, C++, Java, Python, Scala, SQL, Kotlin, Javascript and Swift. I also do graphical designs.
+My main fields of interest are, development of Native Applications and Web Applications. I also have basic knowledge in Machine Learning and Cloud Computing.
+I am proficient in C, C++, Java, Python, Scala, SQL, Kotlin, Javascript and Swift. I am familiar with Prolog and CLIPS. I also do graphical designs.
 
-I have worked on projects and developed skills in using:
+I have worked on projects and developed skills using:
+- Docker
+- Amazon Web Services
 - Django
+- Flask
 - Android Studio
 - Xcode
 - Flutter
-- React 
+- React, React-Native
+- Angular
 - GameMaker Studios 2
-- Express.js
+- Nodejs
 
 As a student I accomplished the following:
 - I am the on Board of Executives for [The UWI Computing Society](https://theuwics.github.io).
 - I became a fellow at [Hacker Hostel](https://hackerhostel.com.jm/).
 - I became the Full-Stack Developer for a Gym Platform.
 - I am currently the Lead Programmer for [JORMS Games](https://jormsgames.github.io)  
+- I was awarded Best In Challenge in the Telios Code Jam Challenge Week Day 1.
 
 You can find programs and projects I have worked on here:
 [Github](https://github.com/aundrae) | [Bitbucket](https://bitbucket.org/justin-ramjattan/)
