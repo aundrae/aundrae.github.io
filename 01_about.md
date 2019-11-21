@@ -20,6 +20,7 @@ I have worked on projects and developed skills using:
 - Flutter
 - React, React-Native
 - Angular
+- Ionic
 - GameMaker Studios 2
 - Nodejs
 
