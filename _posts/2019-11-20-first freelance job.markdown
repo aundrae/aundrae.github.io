@@ -17,5 +17,6 @@ In the beginning, the development was a little complicated with regards to what 
 - JW Player (Paid Subscriber Videos)
 - Dailymotion Player (Free Subscriber Videos)
 - Heroku
+- Tawk
 
 Also, the price to have the app on the Apple App Store was too expensive for the time so the app is a PWA therefore eliminating thr need to for both the Google Play Store and the Apple App Store until the client is ready to port it to the respective stores. Since the Ionic Framework is being used to develop this app, porting it to android and ios app store is done by running one command each :D.
