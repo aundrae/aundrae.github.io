@@ -6,9 +6,9 @@ order: 1
 ---
 <center><img src="/assets/selfimg.jpg" width="200" height="200"></center><br>
 
-Hello, my name is Justin Ramjattan. I am a 3rd year BSc Computer Science student at the [University of the West Indies St.Augustine](https://sta.uwi.edu/).
-My main fields of interest are, development of Native Applications and Web Applications. I also have basic knowledge in Machine Learning and Cloud Computing.
-I am proficient in C, C++, Java, Python, Scala, SQL, Kotlin, Javascript and Swift. I am familiar with Prolog and CLIPS. I also do graphical designs.
+Hello, my name is Justin Ramjattan. I hold a Upper Second Class Degree in Computer Science from the [University of the West Indies St.Augustine](https://sta.uwi.edu/).
+My main fields of interest are, development of Native Applications, Web Applications and Data Science. I also have basic knowledge in Cloud Computing.
+I am proficient in C, C++, Java, Python, Scala, SQL, Dart, Kotlin, Javascript, Typescript and Swift. I am familiar with Prolog and CLIPS. I also do graphical designs.
 
 I have worked on projects and developed skills using:
 - Docker
@@ -23,6 +23,8 @@ I have worked on projects and developed skills using:
 - Ionic
 - GameMaker Studios 2
 - Nodejs
+- MongoDb
+- MySql
 
 As a student I accomplished the following:
 - I am the on Board of Executives for [The UWI Computing Society](https://theuwics.github.io).
