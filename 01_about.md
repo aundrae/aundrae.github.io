@@ -8,7 +8,7 @@ order: 1
 
 Hello, my name is Justin Ramjattan. I hold a Upper Second Class Degree in Computer Science from the [University of the West Indies St.Augustine](https://sta.uwi.edu/).
 My main fields of interest are, development of Native Applications, Web Applications and Data Science. I also have basic knowledge in Cloud Computing.
-I am proficient in C, C++, Java, Python, Scala, SQL, Dart, Kotlin, Javascript, Typescript and Swift. I am familiar with Prolog and CLIPS. I also do graphical designs.
+I am proficient in C, C++, Java, Python, Scala, SQL, Dart, Kotlin, PHP, Javascript, Typescript and Swift. I am familiar with Prolog and CLIPS. I also do graphical designs.
 
 I have worked on projects and developed skills using:
 - Docker
